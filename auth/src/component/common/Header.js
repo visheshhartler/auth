@@ -1,4 +1,4 @@
-//Import libraries for creating a component
+// @flow
 import React from 'react';
 import { Text, View } from 'react-native';
 //Make a component
